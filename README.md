@@ -18,6 +18,13 @@
 <h3 align="left">Extras:</h3>
 <p align="left">
   <p>Tenho certificado de conclusão de técnico de informática</p>
-  <p>Tenho certificado de cursos referente a C++</p>
   <p>Participei das edições 33, 34 e 35 da Exposoft</p>
 </p>
+
+<h3 align="left">Alguns Projetos:</h3>
+<p align="left">
+  <a href="https://exposoftalcina.com/3tid/techabc/pages/index.php">Site de venda de eletronicos</a>
+  <a href="https://exposoftalcina.com/exposoft_2022_2/2tid/Gp_Veterinario/Vet-ABC-exposoft/assets/html/index.php">Site de agendamento de consultas veterinárias</a>
+  <a href="http://sohamyogastudio.com.br/">Site de um estudio de Yoga</a>
+</p>
+
