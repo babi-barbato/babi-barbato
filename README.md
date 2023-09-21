@@ -21,10 +21,10 @@
   <p>Participei das edições 33, 34 e 35 da Exposoft</p>
 </p>
 
-<h3 align="left">Alguns Projetos:</h3>
+<h3 align="left">Alguns Projetos que participei ou dei manutenção:</h3>
 <p align="left">
-  <a href="https://exposoftalcina.com/3tid/techabc/pages/index.php">Site de venda de eletronicos</a>
-  <a href="https://exposoftalcina.com/exposoft_2022_2/2tid/Gp_Veterinario/Vet-ABC-exposoft/assets/html/index.php">Site de agendamento de consultas veterinárias</a>
+  <a href="https://exposoftalcina.com/3tid/techabc/pages/index.php">Site de venda de eletronicos</a><br>
+  <a href="https://exposoftalcina.com/exposoft_2022_2/2tid/Gp_Veterinario/Vet-ABC-exposoft/assets/html/index.php">Site de agendamento de consultas veterinárias</a><br>
   <a href="http://sohamyogastudio.com.br/">Site de um estudio de Yoga</a>
 </p>
 
