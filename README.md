@@ -18,6 +18,7 @@
 <h3 align="left">Extras:</h3>
 <p align="left">
   <p>Tenho certificado de conclusão de técnico de informática</p>
+  <p>Tenho certificado de conclusão de cursos como C++ ou Python</p>
   <p>Participei das edições 33, 34 e 35 da Exposoft</p>
 </p>
 
