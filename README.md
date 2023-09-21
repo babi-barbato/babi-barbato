@@ -2,14 +2,6 @@
 
 <h4>😄 Atualmente estou cusando CCO na SPTech 2/8</h4> 
 
-
-<h3 align="left">📲 Me procure por aqui também:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/b%C3%A1rbara-barbato-de-oliveira-1816ab280/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BarbaraBarbato" height="30" width="40" /></a>
-<a href="https://wa.me/qr/JNFIXGFQS4XPM1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="babi.barbato" height="30" width="40" /></a>
-<a href="https://www.instagram.com/babi.barbato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babi.barbato" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">🎓 O que estou aprendendo:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -20,6 +12,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a> 
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
+</p>
+
+<h3 align="left">📲 Me procure por aqui também:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/b%C3%A1rbara-barbato-de-oliveira-1816ab280/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BarbaraBarbato" height="30" width="40" /></a>
+<a href="https://wa.me/qr/JNFIXGFQS4XPM1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="babi.barbato" height="30" width="40" /></a>
+<a href="https://www.instagram.com/babi.barbato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babi.barbato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚙️ Alguns Projetos que participei ou dei manutenção:</h3>
