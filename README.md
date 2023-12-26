@@ -1,6 +1,6 @@
 <h1>Oiee, eu sou a Babi 👋</h1>
 
-<h4>😄 Atualmente estou cusando CCO na SPTech 2/8</h4> 
+<h4>😄 Atualmente estou cusando CCO na SPTech 3/8</h4> 
 
 <h3 align="left">🎓 O que estou aprendendo:</h3>
 <p align="left"> 
